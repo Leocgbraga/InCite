@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Citation Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <input type="text" id="youtubeUrl" placeholder="Enter YouTube URL">
+        <button onclick="fetchTranscript()">Get Transcript</button>
+        
+        <!-- Loading Bar Container positioned here -->
+        <div id="loadingContainer">
+            <div id="loadingText">Loading...</div>
+            <div id="loadingBar">
+                <div id="loadingFill"></div>
+            </div>
+        </div>     
+
+        <div id="transcriptContainer">
+            <pre id="transcript"></pre>
+        </div>
+        <!-- Added the missing container for arguments -->
+        <div id="argumentsContainer"></div>
+    </div>
+    <script src="script.js"></script>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="0" height="0">
+        <filter id="text-outline-effect">
+          <feMorphology in="SourceAlpha" result="DILATED" operator="dilate" radius="2"/>
+          <feFlood flood-color="#555" result="COLOR"/>
+          <feComposite in="COLOR" in2="DILATED" operator="in" result="OUTLINE"/>
+          <feMerge>
+            <feMergeNode in="OUTLINE"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </svg>
+</body>
+</html>

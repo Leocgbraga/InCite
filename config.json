@@ -1,0 +1,35 @@
+{
+  "categories": ["science", "technology", "medicine", "mathematics", "arts", "humanities", "social_sciences"],
+  "DOAJ_API_URL": "https://doaj.org/api/search/articles/",
+  "MONGO_URL": "mongodb://localhost:27017",
+  "DB_NAME": "academic_sources",
+  "REPUTED_PUBLISHERS": [
+    "Springer", "Elsevier", "Wiley", "Nature Publishing Group", "Oxford University Press",
+    "Cambridge University Press", "Taylor & Francis", "SAGE Publications", 
+    "American Chemical Society (ACS)", "IEEE", "The Royal Society", 
+    "American Physical Society (APS)", "American Mathematical Society (AMS)", 
+    "Annual Reviews", "BioMed Central"
+    ],
+  "REPUTED_JOURNALS": [
+    "Nature", "Science", "The Lancet", "JAMA", "Neuron", "Cell", 
+    "New England Journal of Medicine", "Physical Review Letters", "The BMJ", "PNAS", 
+    "The Journal of Clinical Investigation", "The Astrophysical Journal", "Journal of the American Chemical Society", "The Quarterly Journal of Economics", "Journal of Political Economy", 
+    "Molecular Cell", "Geophysical Research Letters", "Journal of Finance", "Journal of Applied Physics", "Journal of Biological Chemistry", 
+    "Annual Review of Biochemistry", "Annual Review of Astronomy and Astrophysics", "Annual Review of Earth and Planetary Sciences", "Journal of Clinical Oncology", "Chemical Reviews", 
+    "Reviews of Modern Physics", "Advances in Physics", "Journal of Fluid Mechanics", "Journal of Cell Biology", "Bioinformatics", 
+    "Applied Energy", "Trends in Biotechnology", "The Astrophysical Journal Letters", "Environmental Science & Technology", "The Journal of Physical Chemistry", 
+    "The Review of Financial Studies", "European Journal of Operational Research", "Mathematical Programming", "Journal of Differential Equations", "Ecology Letters", 
+    "Plant Physiology", "The Journal of Immunology", "The Journal of Neuroscience", "Human Brain Mapping", "Cognitive Psychology", 
+    "Organizational Behavior and Human Decision Processes", "Management Science", "The Journal of Marketing Research", "Academy of Management Journal", "Circulation", 
+    "Blood", "The Journal of Heart and Lung Transplantation", "Human Reproduction", "Clinical Infectious Diseases", "Global Environmental Change", 
+    "Water Resources Research", "Oceanography", "Journal of Geophysical Research", "Earth System Science Data", "The ISME Journal", 
+    "Journal of Environmental Economics and Management", "Global Biogeochemical Cycles", "The Lancet Infectious Diseases", "The Lancet Neurology", "The Lancet Oncology", 
+    "Nature Medicine", "Nature Biotechnology", "Nature Genetics", "Nature Methods", "Nature Physics", 
+    "Nature Chemistry", "Nature Climate Change", "Nature Geoscience", "Nature Materials", "Journal of Econometrics", 
+    "Econometric Theory", "Journal of Health Economics", "The Journal of Human Resources", "World Bank Economic Review", "Journal of Development Economics", 
+    "Journal of International Economics", "International Economic Review", "Renewable & Sustainable Energy Reviews", "Nuclear Physics A & B", "Journal of High Energy Physics", 
+    "Plant Cell & Environment", "Global Change Biology", "Journal of Experimental Marine Biology and Ecology", "Marine Pollution Bulletin", "Journal of Computational Physics", 
+    "Journal of Chemical Theory and Computation", "Theoretical Computer Science", "Journal of Symbolic Computation", "Artificial Intelligence", "Journal of Machine Learning Research", 
+    "Journal of the Association for Information Systems", "MIS Quarterly", "ACM Transactions on Graphics", "The Journal of Real Estate Finance and Economics", "Real Estate Economics"
+    ]
+}

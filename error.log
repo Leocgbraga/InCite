@@ -1,0 +1,142 @@
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400","service":"doaj-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400","service":"doaj-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400","service":"doaj-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400","service":"doaj-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400","service":"doaj-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400","service":"doaj-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Error in one of the iterations:: TypeError: Cannot read properties of undefined (reading 'created_date')","service":"academic-fetcher"}
+{"level":"error","message":"Error in one of the iterations:: TypeError: loggerUtils.logWarn is not a function","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Error in one of the iterations:: TypeError: Cannot read properties of undefined (reading 'uniqueID')","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Bad request for page 11 in category science. Skipping this page.: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Bad request for page 11 in category technology. Skipping this page.: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Bad request for page 11 in category medicine. Skipping this page.: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Bad request for page 11 in category mathematics. Skipping this page.: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Bad request for page 11 in category arts. Skipping this page.: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Bad request for page 11 in category humanities. Skipping this page.: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: [object Response]","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category science. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category technology. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category medicine. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category mathematics. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category arts. Status: 400: Bad Request: undefined","service":"academic-fetcher"}
+{"level":"error","message":"Failed to fetch from DOAJ for page 11 in category humanities. Status: 400: Bad Request: undefined","service":"academic-fetcher"}

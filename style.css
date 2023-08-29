@@ -1,0 +1,187 @@
+/* Base styles */
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+body, button, input {
+    font-family: 'Didact Gothic', sans-serif; /* Apply Didact Gothic font */
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: black;
+}
+
+#app {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#youtubeUrl {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #b2d8b2;
+    border: 1px solid #555; /* Dark grey border */
+    color: #333;
+}
+
+button:hover {
+    background-color: #a6c9a6;
+}
+
+#transcript {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    text-align: left;
+    line-height: 1.5;
+    white-space: pre-line;
+    width: 90%;
+    font-size: 18px;
+    overflow: auto;
+    display: none;
+}
+
+/* Argument section styles */
+.argument-section {
+    border: 1px solid #b2d8b2;
+    padding: 15px;
+    margin-top: 20px;
+    width: 90%;
+    background-color: #e9e9e9;
+}
+
+.argument-header {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #000000;
+    display: inline-block;
+    margin-bottom: 16px;
+    padding: 0.5px 0.5px;
+}
+
+.arrow-icon {
+    display: inline-block;
+    font-size: 1.2em;
+    margin-right: 8px;
+    transition: transform 0.3s ease;
+    transform: rotate(90deg);
+}
+
+.argument-header.expanded .arrow-icon {
+    transform: rotate(180deg);
+}
+
+.key-point {
+    margin-left: 20px;
+    margin-bottom: 32px; /* Double space between separate key points */
+    font-weight: bold;
+    color: black;
+}
+
+.quotation {
+    margin-left: 40px;
+    color: black;
+    margin-bottom: 16px; /* Single space after each quotation */
+}
+
+.citation {
+    display: none;
+}
+
+/* ... (your existing CSS up top) ... */
+
+.key-point {
+    background-color: #e4f2e4;  /* Soft green background similar to button hover color */
+    margin-bottom: 24px;        /* Increased margin for better separation */
+    padding: 8px;               /* Padding for a better visual block */
+    border-radius: 4px;         /* Rounded corners for a softer look */
+}
+
+.quotation {
+    font-style: italic;         /* Italicize quotations */
+    color: #555;                /* Darker color for quotations */
+    margin-bottom: 12px;        /* Adjusted margin for quotations */
+    margin-left: 30px;          /* Slightly reduced margin for better alignment */
+}
+
+.citation {
+    margin-left: 30px;
+    color: #666;
+    font-size: 0.9em;
+    display: block;
+    list-style-type: disc;    /* This will make them appear as bullets */
+    padding-left: 1em;        /* Space to the left of the bullet */
+}
+
+.citations-list {
+    list-style-type: none; /* Remove bullet points */
+    margin-left: 0;       /* No indent for the list itself */
+    padding-left: 0;      /* No padding on the left */
+    text-align: left;     /* Left-align the text */
+}
+
+.citation {
+    margin-bottom: 5px; /* Add some spacing between citations */
+    text-indent: -0.5in; /* Push the first line to the left by 0.5 inches (default value in MS Word) */
+    padding-left: 0.5in; /* Add padding to compensate for the negative text-indent */
+}
+
+
+
+.argument-section {
+    margin-top: 30px;           /* Additional margin for better separation of sections */
+    background-color: #e9f2e9; /* Slightly lighter green background for better contrast */
+    border-radius: 4px;         /* Rounded corners for the section */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Add a subtle shadow for depth */
+}
+
+/* If you want a horizontal line between key points */
+.key-point:not(:last-child) {
+    border-bottom: 1px solid #b2d8b2; /* Green border similar to other elements in your design */
+    margin-bottom: 16px;           /* Adjusted margin */
+    padding-bottom: 8px;           /* Padding above the border */
+}
+#loadingContainer {
+    display: none; /* This ensures the loading bar is hidden on page load */
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 20px;  
+    margin-bottom: 20px;  
+}
+
+
+#loadingBar {
+    margin: 0 auto;
+    width: 80%;
+    height: 20px;
+    background-color: #e9e9e9;
+    border: 1px solid #b2d8b2; 
+    border-radius: 10px;
+    transition: all 0.5s ease-in-out; /* smooth transition for width changes */
+}
+
+#loadingFill {
+    height: 100%;
+    width: 0;
+    background-color: #b2d8b2;
+    border-radius: 9px;
+    transition: all 0.5s ease-in-out; /* smooth transition for width changes */
+}
+
+#loadingText {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 18px;
+}
+
